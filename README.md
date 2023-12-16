@@ -8,4 +8,4 @@ with fitting regression model. Here one could see the use of non-parametric boot
 generate samples for regression coefficients. After that using boxplot, confidence interval, testing
 of hypothesisI reached to a conclusion.
 
-• One can refer this file to understand the findings.
+• One can refer to the attached file to understand the findings.
