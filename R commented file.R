@@ -1,5 +1,4 @@
-setwd("C:\\Users\\Koyel Das\\Desktop\\Data Mining")
-rm(list=ls())
+
 ChickWeight$Diet=as.factor(ChickWeight$Diet)
 library(ggplot2)
 ggplot(ChickWeight,aes(x=Time,y=weight,col=Diet))+geom_smooth(method="lm",se=FALSE)+ggtitle("Fitted line for Each Diet")
